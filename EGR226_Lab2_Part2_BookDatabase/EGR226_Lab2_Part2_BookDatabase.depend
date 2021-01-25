@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611614776 source:c:\users\ekint\git\githubdesktop\egr226_trevorekin\egr226_lab2_part2_bookdatabase\lab02_demomain.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
