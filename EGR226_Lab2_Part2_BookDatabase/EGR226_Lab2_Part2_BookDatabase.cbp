@@ -31,7 +31,8 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="main.c">
+		<Unit filename="BookList.csv" />
+		<Unit filename="Lab02_DemoMain.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions />
